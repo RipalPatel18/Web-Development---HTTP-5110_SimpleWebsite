@@ -1,0 +1,139 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+img{
+    width: 50px;
+    
+}
+body {
+
+    font-family: poppins;
+    background: #DEE8D9;
+    color: #ffffff;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    ;
+
+}
+
+a:visited {
+    color: rgb(174, 239, 178)
+}
+
+a:hover {
+    background-color: rgb(200, 245, 196);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 6px;
+}
+
+a:active {
+    color: rgb(121, 230, 43)
+}
+
+.logo {
+    font-size: 36px;
+    padding: 20px;
+
+}
+
+#navlist li {
+    display: inline;
+    list-style-type: circle;
+    padding-right: 20px;
+    line-height: 1.1em;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+.box {
+    margin: 10px;
+    padding: 10px;
+    background-color: #0f0f0f;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    clear: both;
+   
+
+
+}
+
+.nav {
+    margin: 10px;
+    padding: 10px;
+    background-color: #2d3a2b;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+.left {
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #2d3a2b;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: left;
+    
+}
+
+.centre {
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #2d3a2b;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: left;
+    
+}
+
+.right {
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #2d3a2b;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: right;
+    
+}
+
+.lower_nav {
+    margin: 10px;
+    padding: 10px;
+    background-color: #2d3a2b;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    clear: both;
+    
+}
+
+.legal {
+    margin: 10px;
+    padding: 10px;
+    background-color: #2d3a2b;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: none;
+    clear: both;
+    
+}
+.deadnav{
+    color:#FFF;
+background-color: #3CF
+}
